@@ -1,0 +1,1 @@
+Worker 0 Total Number Of Tweets: 6 Tweets finished successfully: 6 Tweets failed: 0 Total Working Time: 13819ms.

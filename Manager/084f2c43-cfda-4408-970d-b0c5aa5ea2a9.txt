@@ -1,0 +1,6 @@
+Donald J. Trump op Twitter: "THANK YOU ARIZONA! Get out and #VoteTrump on Tuesday! #AZPrimary #MakeAmericaGreatAgain #Trump2016 https://t.co/5itxkQxrLF" [Donald:PERSON,J.:PERSON,Trump:PERSON,Tuesday:DATE,2016:DATE] 2
+Haggard op Twitter: "This Weekend: Beijing, China - Dec 4 at Tango Club https://t.co/qQw0ysGmEJ" [Haggard:PERSON,This:DATE,Weekend:DATE,Beijing:LOCATION,China:LOCATION,Dec:DATE,4:DATE,Tango:ORGANIZATION,Club:ORGANIZATION] 3
+Barack Obama op Twitter: "Judge Garland is a qualified #SCOTUSnominee with past bipartisan approval—show your support: https://t.co/rh4XUpRSws https://t.co/MHhTEoewLn" [Barack:PERSON,Obama:PERSON,Garland:PERSON,past:DATE] 2
+Columbia University op Twitter: "RT @ColumbiaSOA: Female Directors to Watch, our own @rachelchavkin '08 https://t.co/5OLc93UYoJ #SOAtheatre" [Columbia:ORGANIZATION,University:ORGANIZATION,op:ORGANIZATION,Twitter:ORGANIZATION,'08:NUMBER] 3
+Haggard op Twitter: "Condolences to the victims of tonights terror attacks in Paris, and their families! This is so sad... https://t.co/Hy67jhT4ce" [Haggard:PERSON,tonights:SET,Paris:LOCATION] 3
+Beautiful Pictures op Twitter: "Golden streets of Salzburg ?| Photo by @sert_mehmet https://t.co/iY1K9GX5PB" [Salzburg:LOCATION,?:NUMBER,|:NUMBER] 3

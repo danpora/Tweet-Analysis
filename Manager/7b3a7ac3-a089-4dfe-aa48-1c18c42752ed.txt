@@ -1,0 +1,16 @@
+Barack Obama op Twitter: "Judge Garland is a qualified #SCOTUSnominee with past bipartisan approval—show your support: https://t.co/rh4XUpRSws https://t.co/MHhTEoewLn" [Barack:PERSON,Obama:PERSON,Garland:PERSON,past:DATE] 2
+Bernie Sanders op Twitter: "Smile! We're making new ads and want to include videos of what makes this campaign historic: YOU! Submit your video: https://t.co/0o3clzPnIf" [Bernie:PERSON,Sanders:PERSON] 1
+Donald J. Trump op Twitter: "THANK YOU ARIZONA! Get out and #VoteTrump on Tuesday! #AZPrimary #MakeAmericaGreatAgain #Trump2016 https://t.co/5itxkQxrLF" [Donald:PERSON,J.:PERSON,Trump:PERSON,Tuesday:DATE,2016:DATE] 2
+Reddit op Twitter: ".@stevewoz is answering your questions on r/IAmA right now! #AMA Ask him anything: https://t.co/mk8Sy4acft https://t.co/5ZVQex5UPD" [Reddit:LOCATION,right:DATE,now:DATE] 2
+Haggard op Twitter: "This Weekend: Beijing, China - Dec 4 at Tango Club https://t.co/qQw0ysGmEJ" [Haggard:PERSON,This:DATE,Weekend:DATE,Beijing:LOCATION,China:LOCATION,Dec:DATE,4:DATE,Tango:ORGANIZATION,Club:ORGANIZATION] 3
+AABGU op Twitter: "BGU research suggests we can train our brain to lessen depression and anxiety: https://t.co/wQj8stlIwp https://t.co/Pz43EOxJS4" [] 2
+Donald J. Trump op Twitter: "Why is it that the horrendous protesters, who scream, curse punch, shut down roads/doors during my RALLIES, are never blamed by media? SAD!" [Donald:PERSON,J.:PERSON,Trump:PERSON] 1
+AABGU op Twitter: "Zuckerberg Institute for Water Research deems treated greywater safe for irrigation use: https://t.co/N9khxWU4Zd https://t.co/dZGzR2cm7L" [Zuckerberg:ORGANIZATION,Institute:ORGANIZATION,for:ORGANIZATION,Water:ORGANIZATION,Research:ORGANIZATION] 3
+Barack Obama op Twitter: "In the weekly address, President Obama urges the Senate to give Judge Garland a fair hearing and timely vote: https://t.co/1EuiCg8e8E" [Barack:PERSON,Obama:PERSON,weekly:SET,Obama:PERSON,Senate:ORGANIZATION,Garland:PERSON] 1
+Pearl Jam op Twitter: "New @RNDMband Ghost Riding Tour 2016 Shirt available now in the Shop: https://t.co/1rlxkTxL1h https://t.co/IGtygwagWV" [Pearl:PERSON,Jam:PERSON,2016:DATE,now:DATE] 3
+Game Of Thrones op Twitter: "Countdown with #GoT50 and watch S2E7 “A Man Without Honor” tomorrow on @HBONOW: https://t.co/ScVEv5sZkg https://t.co/VO2WR6bHuC" [50:NUMBER,tomorrow:DATE] 1
+Aaron Paul op Twitter: "Follow the brilliant director/man @gavin_hood1 and ask him to be in his next movie. Can't wait for you to see the one we did. #eyeinthesky" [Aaron:PERSON,Paul:PERSON,one:NUMBER] 1
+AABGU op Twitter: "This #GivingTuesday watch your gift grow by planting an olive tree in the Negev. https://t.co/W4tyDv6jcz https://t.co/OFb0w1DeVL" [Negev:LOCATION] 1
+Pearl Jam op Twitter: "RT @WilliamGutier Finally I've got my Pearl Jam Bogotá bootleg! Best gig ever! #PJLatinAmerica2015 #PearlJam https://t.co/UANxBhNkDS" [Pearl:PERSON,Jam:PERSON,2015:DATE] 1
+Hulk Hogan op Twitter: "Thank u GOD. HH" [Hulk:PERSON,Hogan:PERSON] 2
+Beautiful Pictures op Twitter: "Golden streets of Salzburg ?| Photo by @sert_mehmet https://t.co/iY1K9GX5PB" [Salzburg:LOCATION,?:NUMBER,|:NUMBER] 3

@@ -1,0 +1,90 @@
+Barack Obama op Twitter: "In the weekly address, President Obama urges the Senate to give Judge Garland a fair hearing and timely vote: https://t.co/1EuiCg8e8E" [Barack:PERSON,Obama:PERSON,weekly:SET,Obama:PERSON,Senate:ORGANIZATION,Garland:PERSON] 1
+Barack Obama op Twitter: "Yesterday President Obama revealed his March Madness bracket. Check it out: https://t.co/AzKCRr5DQg #Baracketology" [Barack:PERSON,Obama:PERSON,Yesterday:DATE,Obama:PERSON,March:DATE] 3
+Barack Obama op Twitter: "Judge Garland is a qualified #SCOTUSnominee with past bipartisan approval—show your support: https://t.co/rh4XUpRSws https://t.co/MHhTEoewLn" [Barack:PERSON,Obama:PERSON,Garland:PERSON,past:DATE] 2
+Haggard op Twitter: "Condolences to the victims of tonights terror attacks in Paris, and their families! This is so sad... https://t.co/Hy67jhT4ce" [Haggard:PERSON,tonights:SET,Paris:LOCATION] 3
+Beautiful Pictures op Twitter: "Golden streets of Salzburg ?| Photo by @sert_mehmet https://t.co/iY1K9GX5PB" [Salzburg:LOCATION,?:NUMBER,|:NUMBER] 3
+Haggard op Twitter: "New Haggard Zipper "Moonrise" available now: https://t.co/QSUov1UlS1 https://t.co/9qQ84l7bMw" [Haggard:PERSON,now:DATE] 3
+Hulk Hogan op Twitter: "Told ya I was gonna slam another giant HH" [Hulk:PERSON,Hogan:PERSON] 2
+Ben-Gurion Univ. op Twitter: "Robotics Team from Jusidman Science Center for Youth Wins Prestigious Award https://t.co/mxwhG8yzuU https://t.co/1Hx1RFLYXC" [Ben-Gurion:PERSON,Jusidman:ORGANIZATION,Science:ORGANIZATION,Center:ORGANIZATION,for:ORGANIZATION,Youth:ORGANIZATION] 1
+R.L. Ripples op Twitter: ""Everyone is a moon, and has a dark side which he never shows to anybody." - Mark Twain" [R.L.:PERSON,Ripples:PERSON,Mark:PERSON,Twain:PERSON] 1
+Columbia University op Twitter: "RT @ColumbiaSOA: Female Directors to Watch, our own @rachelchavkin '08 https://t.co/5OLc93UYoJ #SOAtheatre" [Columbia:ORGANIZATION,University:ORGANIZATION,op:ORGANIZATION,Twitter:ORGANIZATION,'08:NUMBER] 3
+Donald J. Trump op Twitter: "MAKE AMERICA GREAT AGAIN!" [Donald:PERSON,J.:PERSON,Trump:PERSON] 3
+Sager Notebook op Twitter: "The giveaway is officially over. Thanks to all of you who entered! Winners will be announced after emails have been sent. :)" [Sager:PERSON,Notebook:PERSON] 2
+Haggard op Twitter: "This Weekend: Beijing, China - Dec 4 at Tango Club https://t.co/qQw0ysGmEJ" [Haggard:PERSON,This:DATE,Weekend:DATE,Beijing:LOCATION,China:LOCATION,Dec:DATE,4:DATE,Tango:ORGANIZATION,Club:ORGANIZATION] 3
+Donald J. Trump op Twitter: "Wow, President Obama just landed in Cuba, a big deal, and Raul Castro wasn't even there to greet him. He greeted Pope and others. No respect" [Donald:PERSON,J.:PERSON,Trump:PERSON,Obama:PERSON,Cuba:LOCATION,Raul:PERSON,Castro:PERSON,Pope:PERSON] 3
+Haggard op Twitter: "? Just Announced: Shanghai, China - Dec 6 at Mao livehouse http://t.co/0vglUdnAA6" [?:NUMBER,Shanghai:LOCATION,China:LOCATION,Dec:DATE,6:DATE] 1
+Donald J. Trump op Twitter: "THANK YOU ARIZONA! Get out and #VoteTrump on Tuesday! #AZPrimary #MakeAmericaGreatAgain #Trump2016 https://t.co/5itxkQxrLF" [Donald:PERSON,J.:PERSON,Trump:PERSON,Tuesday:DATE,2016:DATE] 2
+Hulk Hogan op Twitter: "Thank u GOD. HH" [Hulk:PERSON,Hogan:PERSON] 2
+Pearl Jam op Twitter: "RT @WilliamGutier Finally I've got my Pearl Jam Bogotá bootleg! Best gig ever! #PJLatinAmerica2015 #PearlJam https://t.co/UANxBhNkDS" [Pearl:PERSON,Jam:PERSON,2015:DATE] 1
+Hillary Clinton op Twitter: "Lo que opina una señora de 100 años sobre la elección presidencial. https://t.co/MRlmEAduXa" [Hillary:PERSON,Clinton:PERSON,100:NUMBER] 2
+Beautiful Pictures op Twitter: ""When you take your boat around the financial district" ? Words & phot by @samthecobra! https://t.co/Y8MEzlxAPW" [] 3
+Perspective Pictures op Twitter: "Lenticular Clouds over Mt. Rainier, WA - Michael Brehman https://t.co/7SzZ0lHMyh" [Rainier:PERSON,WA:LOCATION,Michael:PERSON,Brehman:PERSON] 1
+Hillary Clinton op Twitter: ""Barack Obama is our president. He has a constitutional responsibility to fill [the Supreme Court] vacancy. He has exercised it." —Hillary" [Hillary:PERSON,Clinton:PERSON,Barack:PERSON,Obama:PERSON,Supreme:ORGANIZATION,Court:ORGANIZATION] 1
+Error 404   2
+Tristania op Twitter: "? Just Announced: Eindhoven, Netherlands - Oct 16 at Effenaar Grote en Kleine Zaal http://t.co/VqAaHnEKJ0" [?:NUMBER,Eindhoven:ORGANIZATION,Netherlands:LOCATION,Oct:DATE,16:DATE,Effenaar:LOCATION,Grote:LOCATION,Kleine:PERSON,Zaal:PERSON] 2
+Tristania op Twitter: "Sweet dreams from Norway!" [Norway:LOCATION] 2
+AABGU op Twitter: "BGU research suggests we can train our brain to lessen depression and anxiety: https://t.co/wQj8stlIwp https://t.co/Pz43EOxJS4" [] 2
+George Takei op Twitter: "All good things must come to an end. https://t.co/Mkd2EeSTgY" [George:PERSON,Takei:PERSON] 3
+Pearl Jam op Twitter: ""The elements they speak to me..." #PearlJam https://t.co/OyK5Tv1sa9" [Pearl:PERSON,Jam:PERSON] 3
+Pearl Jam op Twitter: "Tune into @KEXP on 3/21 at 12pm PT to hear an exclusive live session w/ @RNDMband. Details: https://t.co/S1nGVU4DFO https://t.co/HYGgH2IfGT" [Pearl:PERSON,Jam:PERSON,3/21:NUMBER,12pm:TIME] 2
+Beautiful Pictures op Twitter: "Exploring new perspectives ?| Photo by @andrewling https://t.co/DSy8Bt6RPg" [] 3
+Sager Notebook op Twitter: "Only 4 hours left in #TheDivisionGiveaway!!! Make it quick! https://t.co/qt1JtObMJX" [Sager:PERSON,Notebook:PERSON,4:DURATION,hours:DURATION,!!!:NUMBER] 2
+Bernie Sanders op Twitter: "Smile! We're making new ads and want to include videos of what makes this campaign historic: YOU! Submit your video: https://t.co/0o3clzPnIf" [Bernie:PERSON,Sanders:PERSON] 1
+Ben-Gurion Univ. op Twitter: "Groundwater from Coastal Aquifers is a Better Source for Desalination than Seawater according to BGU research https://t.co/vN2Lr0HYN4" [Ben-Gurion:PERSON,Coastal:ORGANIZATION,Aquifers:ORGANIZATION] 3
+Perspective Pictures op Twitter: "This did not just happen... https://t.co/AKT1qxIduC" [] 2
+AABGU op Twitter: "Zuckerberg Institute for Water Research deems treated greywater safe for irrigation use: https://t.co/N9khxWU4Zd https://t.co/dZGzR2cm7L" [Zuckerberg:ORGANIZATION,Institute:ORGANIZATION,for:ORGANIZATION,Water:ORGANIZATION,Research:ORGANIZATION] 3
+R.L. Ripples op Twitter: "An early spring. It seems our climate is changing since the last three years; likely we are moving towards the south pole. WI1889" [R.L.:PERSON,Ripples:PERSON,early:DATE,spring:DATE,the:DURATION,last:DATE,three:DATE,years:DATE] 3
+AABGU op Twitter: "Thank you @CharityNav for giving AABGU their highest 4-star rating! Honored to be considered among the top charities in America." [America:LOCATION] 1
+Pearl Jam op Twitter: "New @RNDMband Ghost Riding Tour 2016 Shirt available now in the Shop: https://t.co/1rlxkTxL1h https://t.co/IGtygwagWV" [Pearl:PERSON,Jam:PERSON,2016:DATE,now:DATE] 3
+George Takei op Twitter: "I believe there's a nap for that. https://t.co/WjFuNndf9F" [George:PERSON,Takei:PERSON] 1
+Haggard op Twitter: "? Just Announced: Guangzhou, China - Dec 5 at Dadao Zhong http://t.co/NRTJzHCzib" [?:NUMBER,Guangzhou:LOCATION,China:LOCATION,Dec:DATE,5:DATE] 1
+Columbia University op Twitter: "Changing careers? Some tips from fellow #ColumbiaAlumni: https://t.co/aScWknpo4h" [Columbia:ORGANIZATION,University:ORGANIZATION,op:ORGANIZATION,Twitter:ORGANIZATION] 2
+Hillary Clinton op Twitter: "One million people have donated to help elect Hillary, and a majority of those donations were $100 or less. https://t.co/zTxcWE61tB" [Hillary:PERSON,Clinton:PERSON,One:NUMBER,million:NUMBER,Hillary:PERSON,$:MONEY,100:MONEY] 1
+R.L. Ripples op Twitter: "Curious Purses. OR1888 https://t.co/Xyc4qkGW1Y" [R.L.:PERSON,Ripples:PERSON,OR1888:NUMBER] 3
+AABGU op Twitter: "This #GivingTuesday watch your gift grow by planting an olive tree in the Negev. https://t.co/W4tyDv6jcz https://t.co/OFb0w1DeVL" [Negev:LOCATION] 1
+Bernie Sanders op Twitter: "It's time to shut the revolving door between Wall Street and the government. Wall Street will not be represented in my administration." [Bernie:PERSON,Sanders:PERSON] 2
+Reddit op Twitter: ".@stevewoz is answering your questions on r/IAmA right now! #AMA Ask him anything: https://t.co/mk8Sy4acft https://t.co/5ZVQex5UPD" [Reddit:LOCATION,right:DATE,now:DATE] 2
+Tristania op Twitter: "? Just Announced: Elvas, France - Aug 10 at Elvas http://t.co/bRshYIrm99" [?:NUMBER,Elvas:PERSON,France:LOCATION,Aug:DATE,10:DATE] 2
+R.L. Ripples op Twitter: ""somebody's else" --"Our Paper" Massachusetts Reformatory 1920 https://t.co/SWpjqqevB9" [R.L.:PERSON,Ripples:PERSON,Massachusetts:LOCATION,1920:DATE] 2
+Perspective Pictures op Twitter: "These soccer fans throwing toilet paper at the same time. https://t.co/wabLGFaohf" [] 1
+Tristania op Twitter: "? This Weekend: Eindhoven, Netherlands - Oct 16 at Effenaar Grote en Kleine Zaal http://t.co/90iCt7Qdya" [?:NUMBER,This:DATE,Weekend:DATE,Eindhoven:ORGANIZATION,Netherlands:LOCATION,Oct:DATE,16:DATE,Effenaar:LOCATION,Grote:LOCATION,Kleine:PERSON,Zaal:PERSON] 1
+Haggard op Twitter: "? Just Announced: Tianjin, China - Dec 3 at Pai Livehouse https://t.co/aZABcEuwcV" [?:NUMBER,Tianjin:LOCATION,China:LOCATION,Dec:DATE,3:DATE] 1
+Pearl Jam op Twitter: ""I will feel alive... as long as I am free..." #PearlJam https://t.co/9ZnNDxySVL" [Pearl:PERSON,Jam:PERSON] 2
+Pearl Jam op Twitter: ""I don't wanna take what you can give, I would rather starve than eat your bread." #PearlJam https://t.co/YfGV9tddRs" [Pearl:PERSON,Jam:PERSON] 1
+Barack Obama op Twitter: "Make your voice heard on a fair #SCOTUS nomination process for Judge Merrick Garland: https://t.co/9kCCJ2ebUp" [Barack:PERSON,Obama:PERSON,Merrick:PERSON,Garland:PERSON] 2
+Donald J. Trump op Twitter: ""@gamzorz: @megynkelly Dont worry Trump, They are losing thousands of viewers and money. Roger Ailes will be telling Megyn to stop"" [Donald:PERSON,J.:PERSON,Trump:PERSON,Trump:PERSON,Roger:PERSON,Ailes:PERSON] 1
+Perspective Pictures op Twitter: "Plot twist: https://t.co/jhPWgRfAbw" [] 2
+Haggard op Twitter: "Today: Guangzhou, China - Dec 5 at T:Union https://t.co/FxzW5l9D9L" [Haggard:PERSON,Today:DATE,Guangzhou:LOCATION,China:LOCATION,Dec:DATE,5:DATE] 2
+NASA op Twitter: "Hear from mission managers at 2:30pm ET about tomorrow’s @OrbitalATK #Cygnus cargo launch: https://t.co/rUrtFD4xk0 https://t.co/fybC3mxj2K" [NASA:ORGANIZATION,2:30:TIME,pm:TIME,about:DATE,tomorrow:DATE] 2
+Aaron Paul op Twitter: "Follow the brilliant director/man @gavin_hood1 and ask him to be in his next movie. Can't wait for you to see the one we did. #eyeinthesky" [Aaron:PERSON,Paul:PERSON,one:NUMBER] 1
+Pearl Jam op Twitter: ""Elderly Woman Behind The Counter In A Small Town" live at The Showbox in Seattle, WA (12/6/2002). #PearlJam https://t.co/LdUuGJc25E" [Pearl:PERSON,Jam:PERSON,Elderly:MISC,Woman:MISC,Behind:MISC,The:MISC,Counter:MISC,In:MISC,A:MISC,Small:MISC,Town:MISC,Seattle:LOCATION,WA:LOCATION,12/6/2002:DATE] 2
+Barack Obama op Twitter: "Happy #StPatricksDay. https://t.co/VuguIeyUO1" [Barack:PERSON,Obama:PERSON] 3
+Sager Notebook op Twitter: "Only 26 followers to go in our X00th contest! We're giving away a 1TB SSD! https://t.co/TDNKtAVzEA" [Sager:PERSON,Notebook:PERSON,26:NUMBER] 2
+Beautiful Pictures op Twitter: "The calming sights of Istanbul ?| Photo by @bu_khaled https://t.co/yeKno3YkCM" [Istanbul:LOCATION,?:NUMBER,|:NUMBER] 3
+Tristania op Twitter: "Thinking back on 2014 releases. ... and the best album last year was???" [2014:DATE,last:DATE,year:DATE,???:NUMBER] 2
+Ben-Gurion Univ. op Twitter: "New exhibition on Discoveries and Development that Changed the World Includes 3 from BGU https://t.co/x5HBsDBgNy https://t.co/4TRNjYbei3" [Ben-Gurion:PERSON,3:NUMBER] 1
+George Takei op Twitter: "A reminder that our historical heroes were merely human--when you gotta go, you gotta go. #PooDunnit https://t.co/Y00hxS4NnO" [George:PERSON,Takei:PERSON] 3
+Hillary Clinton op Twitter: ""I want to stop the raids and the round-ups. I don't believe we should be breaking up families and deporting mothers and fathers." —Hillary" [Hillary:PERSON,Clinton:PERSON] 1
+R.L. Ripples op Twitter: "Two mammoth tape worms, one 100 feet and another 75 feet in length, were taken from the person of Mrs. Catherine Roul of New York. SC1867" [R.L.:PERSON,Ripples:PERSON,Two:NUMBER,one:NUMBER,100:NUMBER,75:NUMBER,Catherine:PERSON,Roul:PERSON,New:LOCATION,York:LOCATION] 1
+George Takei op Twitter: "Demystified by current https://t.co/GqdFOO1BsC Myths And... https://t.co/4LU6ASTO3Y https://t.co/e8IWSwv61w" [George:PERSON,Takei:PERSON,current:DATE] 3
+Perspective Pictures op Twitter: "This is awkward. https://t.co/3aPpFlWpIw" [] 1
+Hillary Clinton op Twitter: ""I ask the Senate to do their duty. It's time for them to quit the partisan posturing and receive the [Supreme Court] nominee." —Hillary" [Hillary:PERSON,Clinton:PERSON,Senate:ORGANIZATION,Supreme:ORGANIZATION,Court:ORGANIZATION] 1
+Error 404   2
+Hulk Hogan op Twitter: "HH" [Hulk:PERSON,Hogan:PERSON] 2
+Error 404   2
+Columbia University op Twitter: "RT @physorg_com: Scientists say many plants don't respond to warming as thought https://t.co/nZaAIdgTxw @columbia" [Columbia:ORGANIZATION,University:ORGANIZATION,op:ORGANIZATION,Twitter:ORGANIZATION] 2
+Pearl Jam op Twitter: ""Stunned by my own reflection. It's looking back, sees me too clearly." #PearlJam https://t.co/RMf7hU9Bvx" [Pearl:PERSON,Jam:PERSON] 3
+Game Of Thrones op Twitter: "34 more days. Stream S2E7, “A Man Without Honor” on @HBONOW at 3:00PM for #GoT50: https://t.co/ScVEv5sZkg https://t.co/XF2fmAWLmL" [34:NUMBER,days:DURATION,3:00:TIME,PM:TIME,50:NUMBER] 2
+Donald J. Trump op Twitter: ".@DiamondandSilk- Just watched you on #WattersWorld with a large group of people. Everybody loves you- two amazing people! #Trump2016" [Donald:PERSON,J.:PERSON,Trump:PERSON,two:NUMBER,2016:DATE] 2
+Reddit op Twitter: "HAM radios & tic-tac-toe: @stevewoz shares his #Formative moment. @googlecloud Watch here: https://t.co/OsiW43Mqrr https://t.co/RZO62VSv3P" [Reddit:LOCATION] 1
+Error 404   2
+Perspective Pictures op Twitter: ""We are in the universe and the universe is in us" https://t.co/nqL3xgoYQS" [] 2
+Sager Notebook op Twitter: "Get industry leading performance out of your laptop with the NP9870, the true desktop replacement from Sager with a full GTX 980 inside!" [Sager:PERSON,Notebook:PERSON,Sager:PERSON,GTX:MISC,980:NUMBER] 2
+Hillary Clinton op Twitter: "Arizona, go vote today! Retweet to let everyone know you’re with her. https://t.co/bBqOf8iiuA" [Hillary:PERSON,Clinton:PERSON,Arizona:LOCATION,today:DATE] 3
+Error 404   2
+NASA op Twitter: "Big on social media? Apply now & see the April 8 @SpaceX cargo launch from FL: https://t.co/lsIp7c1ghW #NASASocial https://t.co/ESpEISomcQ" [NASA:ORGANIZATION,now:DATE,April:DATE,8:DATE] 2
+Sager Notebook op Twitter: "We're at 1000! Giveaway is coming in an hour, so if you still want to enter, you have an hour to follow before we pick our final winner!" [Sager:PERSON,Notebook:PERSON,1000:DATE,an:DURATION,hour:DURATION,an:DURATION,hour:DURATION] 1
+Aaron Paul op Twitter: "To belong, you must believe. Two weeks and counting for thepathonhulu people. Can't wait for you… https://t.co/nZ4ScxHvax" [Aaron:PERSON,Paul:PERSON,Two:DURATION,weeks:DURATION] 2
+Hillary Clinton op Twitter: ""I want to get comprehensive immigration reform. And I want to start trying to get it as soon as I'm elected, if I'm so fortunate." —Hillary" [Hillary:PERSON,Clinton:PERSON] 1
+Pearl Jam op Twitter: "Matt and Eddie with @DuffMckagan. #TBT #PearlJam https://t.co/RsVGgzRZB4" [Pearl:PERSON,Jam:PERSON,Matt:PERSON,Eddie:PERSON] 2
+George Takei op Twitter: "We can remember strange behavior from our earlier years. https://t.co/OCsaXQ6yQo" [George:PERSON,Takei:PERSON,earlier:DURATION,years:DURATION] 1
